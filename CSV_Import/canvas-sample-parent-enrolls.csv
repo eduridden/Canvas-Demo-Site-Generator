@@ -1,0 +1,13 @@
+course_id,user_id,role,section_id,status,associated_user_id
+sdemo-grade2-000,observer01,observer,grade2-a,active,student01
+sdemo-grade2-000,observer02,observer,grade2-a,active,student03
+sdemo-grade2-000,observer03,observer,grade2-a,active,student03
+sdemo-mtheory-000,observer01,observer,mtheory-a,active,student01
+sdemo-mtheory-000,observer02,observer,mtheory-a,active,student03
+sdemo-mtheory-000,observer03,observer,mtheory-a,active,student03
+sdemo-math8-000,observer01,observer,math8-a,active,student01
+sdemo-math8-000,observer02,observer,math8-a,active,student03
+sdemo-math8-000,observer03,observer,math8-a,active,student03
+sdemo-geology-000,observer01,observer,geology-a,active,student01
+sdemo-geology-000,observer02,observer,geology-a,active,student03
+sdemo-geology-000,observer03,observer,geology-a,active,student03

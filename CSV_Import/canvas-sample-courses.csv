@@ -1,0 +1,7 @@
+course_id,short_name,long_name,account_id,term_id,status,start_date,end_date
+sdemo-welcome-000,Welcome,Welcome to Canvas,canvas-sdemo,,active,,
+sdemo-grade2-000,Year 2,Year 2 Homeroom,canvas-sdemo,,active,,
+sdemo-mtheory-000,Music Theory,Music Theory,canvas-sdemo,,active,,
+sdemo-math8-000,Year 8 Maths,Year 8 Maths,canvas-sdemo,,active,,
+sdemo-geology-000,Geology,Geology,canvas-sdemo,,active,,
+sdemo-staffpd-000,Staff PD,Staff Proffesional Development,canvas-sdemo,,active,,

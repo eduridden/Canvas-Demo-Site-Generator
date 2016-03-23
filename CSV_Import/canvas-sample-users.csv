@@ -1,0 +1,14 @@
+user_id,login_id,password,first_name,last_name,email,status
+principal,principal,secret123,Albus,Dumbledore,,active
+teacher1,teacher1,secret123,Minerva,McGonagall,,active
+teacher2,teacher2,secret123,Severus,Snape,,active
+teacher3,teacher3,secret123,Gilderoy,Lockhart,,active
+student01,hpotter,secret123,Harry,Potter,,active
+student02,hgranger,secret123,Hermione,Granger,,active
+student03,rweasley,secret123,Ron,Weasley,,active
+student04,llovegood,secret123,Luna,Lovegood,,active
+student05,dmalfoy,secret123,Draco,Malfoy,,active
+student06,nlongbottom,secret123,Neville,Longbottom,,active
+observer01,sblack,secret123,Sirius,Black,,active
+observer02,aweasley,secret123,Arthur,Weasley,,active
+observer03,mweasley,secret123,Molly,Weasley,,active

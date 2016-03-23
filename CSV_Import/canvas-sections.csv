@@ -1,0 +1,11 @@
+section_id,course_id,name,status,start_date,end_date
+welcome-a,sdemo-welcome-000,Class A,active,,
+welcome-b,sdemo-welcome-000,Class B,active,,
+grade2-a,sdemo-grade2-000,Class A,active,,
+grade2-b,sdemo-grade2-000,Class B,active,,
+mtheory-a,sdemo-mtheory-000,Class A,active,,
+mtheory-b,sdemo-mtheory-000,Class B,active,,
+math8-a,sdemo-math8-000,Class A,active,,
+math8-b,sdemo-math8-000,Class B,active,,
+geology-a,sdemo-geology-000,Class A,active,,
+geology-b,sdemo-geology-000,Class B,active,,
